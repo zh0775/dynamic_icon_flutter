@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/dynamic_icon_flutter/ios/Classes/DynamicIconFlutterPlugin.h
